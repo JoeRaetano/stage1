@@ -1,3 +1,16 @@
+/* SUGGESTION: I noticed your website uses a "standard" font.
+Google Fonts can be used to make the page more personal.
+
+For example, to use the Roboto font , do the following:
+
+Add this code to the <head> section of your html:
+<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+Add the corresponding CSS in your CSS file:
+body{
+  font-family: 'Roboto', sans-serif;
+}
+Note: this article can be used to select good Google Fonts.
+*/
 
 h1 {
 	text-align: center;
